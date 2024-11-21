@@ -3,8 +3,8 @@
 📚 After years of coding as a hobby, I’m now working towards professional certifications in data science.  
 💞️ I’m enthusiastic about collaborating on Open Source projects and engaging with the tech community to grow and share knowledge.  
 🌐 My profile is bilingual:  
-- Personal projects and portfolio are in English, for a global audience.  
-- Learning resources and technical notes are in Spanish, to support the Spanish-speaking community.  
+Personal projects and portfolio are in English, for a global audience.  
+Learning resources and technical notes are in Spanish, to support the Spanish-speaking community.  
 
 <!--
 **matzalazar/matzalazar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
