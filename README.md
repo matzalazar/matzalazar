@@ -27,5 +27,5 @@ Technical degree in Software Development (UPSO) · Bachelor's in Cyber Defense (
 ## Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=matzalazar&show_icons=true&theme=transparent" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=matzalazar&show_icons=true&theme=transparent" />
 </p>
